@@ -6,7 +6,6 @@ import pytz as pytz
 
 FRESHBOOKS_TIMEZONE = pytz.timezone("US/Eastern")
 
-# Winston's translation = group = magnitude, \d any char not DEC, ? = 0 or 1 reps of the prev. expr. , group(unit) [anychar of 'ymw']
 FREQUENCY_REGEX = re.compile(r"(?P<magnitude>\d+)?(?P<unit>[ymw])")
 DURATION_UNIT_MAP = {"w": "weeks", "m": "months", "y": "years"}
 
