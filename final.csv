@@ -1,0 +1,107 @@
+systemid,profileid,organization,fname,lname,bill_name,amount,currency_code,create_date,frequency,numberrecurring,discount_total,discount_value,due_offset_days,description,notes,include_unbilled_time,po_number,card_saved,occurrences_to_date,last_occurrence_date,last_invoice_date,next_generation_date
+3143041,4387,Music Talk,Claude,B,,360.0,USD,2018-02-06,2w,1,0,0,3,Two weeks of service,Thank you for choosing me for your marketing services!,f,,0,1,2018-02-06,2018-02-06,2018-02-20
+1265214,12332,Good People Creative,Cole,Evans,Good People Creative,0.0,USD,2015-02-17,m,0,0,0,0,,,f,,0,8,2015-09-17,2015-09-17,2015-10-17
+234908,13893,Darlene May,Rod,Nickel,,158.2,CAD,2018-07-17,4w,0,0,0,0,,,f,,0,8,2018-06-19,2018-06-19,2018-07-17
+299414,1,Mind & Soul In the Harmony Massage,Maria,Lado,,210.0,USD,2012-03-31,m,6,-90,30,0,,"Hi Maria, rnrnThis is monthly invoice to meet twice a month to continue to support your business until you feel comfortable to run your  business on your own and I gave you 30% off for coaching sessions. rnrnSofia",f,,0,6,2012-09-01,2012-09-01,2012-10-31
+579542,4455,"Gonzalez, Hannia",Hannia,Gonzalez,,120.0,USD,2013-11-13,2w,0,0,0,0,,,f,,0,21,2014-08-20,2014-08-20,2014-09-03
+2451221,11588,Innisfail Banana Farming Company,Chris,Borsarto,,1741.3,AUD,2017-06-01,m,0,0,0,0,,,f,,0,25,2019-06-01,2019-06-01,2019-07-01
+296066,452,Home Instead Senior Care,Crystal,Henry,,300.0,USD,2013-09-12,m,4,0,0,0,,Four Month Term,f,,0,4,2013-12-12,2013-12-12,2014-01-12
+84149,39,Dezigntime Australia,Daniel,Melhem,,31.9,AUD,2008-12-27,y,0,0,0,0,,Please make payment to:rnrnOneos Pty LtdrnBartercard no. 6009126150711411,f,,0,1,2008-12-27,2008-12-27,2009-12-27
+465021,1,The Webb Enterprises Inc.,Michelle,Webb,,3000.0,CAD,2017-09-30,m,0,0,0,0,,,f,,0,98,2020-05-30,2020-05-30,2020-06-30
+2351670,23912,Keyona Bell,,,,75.0,USD,2019-06-07,m,0,0,0,0,Valuation,,f,,1,20,2021-01-07,2021-01-07,2021-02-07
+537759,23897,Noise 13,Dava,Guthmiller,,2600.0,USD,2015-04-29,m,2,0,0,0,,"Dava,rnrnThis is an invoice for the retainer of my time for the upcoming month. For any of the work beyond the 65hrs or any rollover hours, they'll be described in an ""Additional Work"" invoice sent at the end of each month.rnrnThanks!rnRachel",f,,0,2,2015-04-29,2015-04-29,2015-05-29
+3708089,221,Boyle and Sons,Edgardo,Considine,,3823.0,USD,2018-09-20,w,3,0,0,0,,,t,,0,0,,,2018-09-20
+227395,94007,Neudi Fernandes,,neudi@nfernandes.com.br,,39.0,BRL,2014-11-30,m,0,0,0,0,,,f,rf9DvG4@0T2L,0,9,2015-07-30,2015-07-30,2015-08-30
+222293,6623,MICHAEL MIERNICKI,MICHAEL,MIERNICKI,,59.9,USD,2012-05-19,2w,4,0,0,0,,,f,,0,4,2012-06-30,2012-06-30,2012-07-14
+470184,73,Connect Yorkshire,Nick,Butler,,1928.4,GBP,2012-12-08,y,0,0,0,0,,Renewal date 22nd January.,f,Nick Butler,0,3,2014-12-08,2014-12-08,2015-12-08
+199801,26,Ona Photo,Dariusz,Olszynski,,59.7,USD,2010-10-05,6m,0,0,0,0,,Thank you for your business.,f,,0,9,2014-10-05,2014-10-05,2015-04-05
+2624625,823,Hello Worls,Vishakha,Modi,,100.0,INR,2016-09-28,m,0,0,0,30,,,f,,0,53,2021-01-28,2021-01-28,2021-02-28
+2108306,318,Century 21 Affiliated,Dianne,Parvin,,2500.0,USD,2016-06-01,6m,0,0,0,0,,,f,,0,7,2019-06-01,2019-06-01,2019-12-01
+382112,11649,Brandi Breaux,Brandi,Breaux,Brandi Breaux,32.48,USD,2016-03-05,m,0,0,0,0,,,f,,0,5,2016-06-05,2016-06-05,2016-07-05
+222293,1548,LINDA SARNOFF,LINDA,SARNOFF,,59.9,USD,2010-11-15,2w,4,0,0,0,,,f,,0,4,2010-12-27,2010-12-27,2011-01-10
+227395,104661,JADINEIA GOMES DOS SANTOS,,oliveirademagalhaes@gmail.com,,39.0,BRL,2015-05-25,m,0,0,0,0,,,f,W69HVPMg3K6V,0,3,2015-07-25,2015-07-25,2015-08-25
+247544,11877,Indiana Wesleyan University,Scott,Todd,,500.0,USD,2015-12-01,m,0,0,0,0,,,f,,0,8,2016-07-01,2016-07-01,2016-08-01
+227408,88905,Lancaster-Lebanon IU 13,Keith,Earle,,274.0,USD,2015-06-02,y,0,0,0,0,,,f,,0,2,2016-06-02,2016-06-02,2017-06-02
+506666,44758,Katy Widrick (Make Media Over),Katy,Widrick,kevin@tailwindapp.com,14.98,USD,2017-06-21,m,0,0,0,0,,,f,,0,12,2018-05-21,2018-05-21,2018-06-21
+129813,529,Westwood Place,Dawn,Buxbaum,,99.0,USD,2013-03-01,m,0,0,0,0,,,f,,0,15,2014-05-01,2014-05-01,2014-06-01
+296066,15759,Friends and Farmers Cooperative,Diana,Griffith,,270.0,USD,2017-05-02,m,4,0,0,0,,"Four PaymentsrnBanner Run Dates:rnMay 1, 2017 - May 14, 2017rnJune 5, 2017 - June 18, 2017rnJuly 3, 2017 - July 16, 2017rnAugust 7, 2017 - August 20, 2017",f,,0,4,2017-08-02,2017-08-02,2017-09-02
+56697,590,Evan Karp,Evan,Karp,Evan G Karp,34.0,USD,2009-09-14,m,0,0,0,0,quietlightning.org,,f,,1,137,2021-01-14,2021-01-14,2021-02-14
+348509,12162,Greystar - Cape Landing,Nichele,Hancock,,197.99,USD,2016-04-25,m,0,0,0,0,,,f,,0,21,2017-12-25,2017-12-25,2018-01-25
+536471,22915,Schaefer Studio Hair Salon,Noah,Schaefer,,500.0,USD,2015-04-01,m,0,0,0,0,,Billing is set for the 1st of each month.,f,,0,6,2015-09-01,2015-09-01,2015-10-01
+354411,925,KickStart Fitness,Sherry,Rand,,52.94,AUD,2012-06-15,m,0,0,0,0,,,f,,0,11,2013-04-15,2013-04-15,2013-05-15
+542418,28404,Lucy Timbers/Chris Burbidge,Matthew,Burbidge,Matthew Burbidge,104.9,CAD,2015-09-06,m,10,0,0,0,,"Your tuition is based on 34 lessons from Saturday, September 12, 2015 - Saturday, June 25, 2016.
+Your account will be billed automatically on the same day each month from September 2015 - June 2016.",f,,0,10,2016-06-06,2016-06-06,2016-07-06
+620098,8590,Irma Mujica,Irma,Mujica,,39.95,USD,2014-03-24,m,0,0,0,0,,,f,,0,13,2015-03-24,2015-03-24,2015-04-24
+687809,19938,Oohm.com.au,Belinda,Smith,,180.0,AUD,2015-03-08,y,0,0,0,0,,Stopped 9 August 2017 with change of website.,f,,0,3,2017-03-08,2017-03-08,2018-03-08
+340304,7508,DreamFleet,Edmond,Helstab,Edmond Helstab,111.87,CAD,2015-03-28,m,0,0,0,0,,,f,,1,6,2015-08-28,2015-08-28,2015-09-28
+58469,10,"Expo Design, Inc.",Brian,Landau,,100.0,USD,2013-03-25,y,0,0,0,0,,,f,,0,8,2020-03-25,2020-03-25,2021-03-25
+455171,4428,deborah carter,deborah,carter,,0.0,USD,2014-05-01,m,0,0,0,0,,Covers Open Cloud Academy Students,f,,0,19,2015-04-01,2015-04-01,2015-05-01
+745070,40215,Albert Buzzetti and Associates,Albert,Buzzetti,Eleni Manos,199.0,USD,2017-06-02,m,0,0,0,0,,,f,,0,9,2018-01-02,2018-01-02,2018-02-02
+525709,30167,(ECD) Adrianna Costello,Gayle,Costello,Frank Costello,416.0,USD,2017-02-03,6m,2,0,0,0,,,f,,0,2,2016-02-03,2016-02-03,2017-02-03
+542148,2,Medikum,Robert,Wrona,,100.0,GBP,2013-08-15,y,0,0,0,0,,,f,,0,1,2013-08-15,2013-08-15,2014-08-15
+94402,1704,Keith  Jenkins,Keith,Jenkins,KEITH JENKINS,133.0,USD,2012-04-02,m,6,0,0,0,,,f,,0,6,2012-07-02,2012-07-02,2012-08-02
+365596,6070,Résidence Des Ormes,,,jrondeau,240.3,CAD,2016-11-01,y,0,0,0,0,,,f,,0,3,2016-11-01,2016-11-01,2017-11-01
+112288,15650,VBS Photography,Venita,Bell Shaw,,107.4,USD,2014-06-18,y,0,0,0,0,,Hi V!rnrnHope all is well. This invoice is for hosting the site for the year. Let me know if you have any questions.rnrnJeremy,f,,0,2,2015-06-18,2015-06-18,2016-06-18
+185900,17666,The Express,Gary J,Mcnall,,19.0,USD,2010-08-30,y,0,0,0,0,,,f,,0,0,,,2010-08-30
+2879258,9467,Roberts Auto Center,Kelly,Hansen,,69.95,USD,2017-09-01,m,0,0,0,13,15 Meg Small Business Internet Service,,f,,0,20,2019-04-01,2019-04-01,2019-05-01
+30746,460,Appraisal Prof,Russell,Ho,Russell Ho,89.99,USD,2007-12-01,m,0,0,0,0,,,f,A66543,0,1,2007-12-01,2007-12-01,2008-01-01
+227395,89847,AKR Advogados,,denisar@akradvogados.com.br,,48.0,BRL,2014-07-29,m,0,0,0,0,,,f,psWttZr8kqXe,0,23,2016-05-29,2016-05-29,2016-06-29
+184888,125,Mani Goulding,Mani,Goulding,,124.3,CAD,2013-09-01,m,2,0,0,0,,Thank you for choosing The Grass Cutters (EcoCut)!rnrnChris & Dan,f,,0,2,2013-10-01,2013-10-01,2013-11-01
+652076,78,Maria Reis,Maria,Reis,,100.0,USD,2013-06-27,m,0,0,0,0,,,f,,0,26,2015-07-27,2015-07-27,2015-08-27
+1124455,1680,31 Studio,Paul Caffell,,,120.0,GBP,2015-05-25,y,0,0,0,0,,,f,,0,2,2016-05-25,2016-05-25,2017-05-25
+2235124,10174,Wholesale Flooring Depot,Sharon,Ciavatto,,30.0,USD,2017-05-25,m,0,0,0,0,Monthly Web Hosting,,f,,0,3,2017-07-25,2017-07-25,2017-08-25
+201913,10245,"Continental Overhead Doors, LLC",Wade,Bandy,,43.3,USD,2016-01-23,m,0,0,0,0,,Thanks Wade!,f,,0,12,2016-12-23,2016-12-23,2017-01-23
+198865,728,Jan Miner,Jan,Miner,,306.0,USD,2019-05-02,y,0,-54,15,0,,,f,,0,7,2020-05-02,2020-05-02,2021-05-02
+773342,34783,60043,Andriy,Perepolkin,,50.85,CAD,2015-12-01,m,0,0,0,0,,,f,,0,8,2016-07-01,2016-07-01,2016-08-01
+69918,19459,Kubuku Ecolodge and Resto,#REF!,Gede Sentana,,87.0,USD,2013-11-25,3m,0,0,0,0,,"PAYMENT OPTIONS:rn•	Direct Debit - Credit CardrnIf you wish to be invoiced monthly please download our Direct Debit form from http://www.siteminder.com/siteminder-forms/ and fax back to us on +61 2 8246-6337 or email your request to accounts@siteminder.com.aurn•	EFT – Quarterly.  No refund applies to advance payment.	rn*For any of the above payment options please email request to accounts@siteminder.com.aurnrn** NO CHEQUES WILL BE ACCEPTED**rnrnShould you no longer require SiteMinder services, please give 30 days notice by emailing accounts@siteminder.com.au .",f,,0,2,2014-02-25,2014-02-25,2014-05-25
+1860012,40805,Douglas Scott,Douglas,Scott,,59.9,USD,2018-08-27,2w,2,0,0,0,,,f,,0,2,2018-09-10,2018-09-10,2018-09-24
+200899,8483,Preferred Energy Inc,Danton,Moorhead,Danton Moorhead,495.0,CAD,2015-06-25,m,0,0,0,0,,,f,,0,28,2017-09-25,2017-09-25,2017-10-25
+2799607,5193,FBE,Ryan,O'Donnell,,10000.0,USD,2017-03-01,m,0,0,0,0,General Real Estate Management and Consulting,Wire Instructions:nBanco Popular de PRn1500 Ponce de Leon AvenSan Juan PR 00926nnABA 021502011nFor further credit to account 030069092nIn the name of FRIEDLAND ENTERPRISES LLCnSWIFT Address: BPPRPRSX (for international wires),f,,0,3,2017-05-01,2017-05-01,2017-06-01
+169473,29143,Snap Delivery Service,Talha,Khan,,141.25,CAD,2016-08-01,m,0,0,0,0,,,f,,0,6,2017-01-01,2017-01-01,2017-02-01
+185900,18940,Baseload Technology Pty Ltd,Wayne,Addison,,1.0,USD,2010-07-09,y,0,0,0,0,,,f,,0,0,,,2010-07-09
+2305413,24,Cleveland County Chamber of Commerce,Anna,Lineberger,,0.0,USD,2017-01-30,y,0,0,0,0,,,f,,0,0,,,2017-01-30
+3012619,10570,FranBizNetwork,Emily,Burns,,1000.0,USD,2018-03-22,m,2,0,0,8,LinkedIn Marketing Package - January 2018,,f,,0,2,2018-03-18,2018-03-18,2018-03-22
+315411,9631,Schneider & Palcsik,Drew,Palcsik,,1950.0,USD,2015-06-22,m,0,0,0,0,,,f,,0,19,2016-12-22,2016-12-22,2017-01-22
+193426,2132,Accenture Federal Services,Mike,Chappell,,5400.0,USD,2013-08-22,y,0,0,0,0,,Thank you for using LeanKit!,f,7500003731,0,2,2014-08-22,2014-08-22,2015-08-22
+1116634,46255,Samantha Foster,Samantha,Foster,,16.48,USD,2018-01-02,m,12,0,0,0,,,f,,0,12,2018-12-02,2018-12-02,2019-01-02
+694238,26947,Bettina Battaglia Photographer,Bettina,Battaglia,Bettina Battaglia,140.0,USD,2015-12-22,2y,1,0,0,0,,Discount Code: ROBPP was applied to your $299 one-time setup fee.,f,,0,1,2015-12-22,2015-12-22,2017-12-22
+264295,55,Highland Valley Holiday Units,Susan,Van Winden,,625.0,AUD,2011-04-01,y,0,0,0,0,,"Amendments of Annual Fees.rnShould you wish to amend a service at any time, please contact Brian Lovison to discuss your requirements.  rnTo maintain the security of your website, cancellation of annual fees (hosting, domain registration, Huski etc) must be made in writing. rnCharges will continue to accrue until written authorisation is received by our office.rnrnQueriesrnIf you have any queries regarding your account, or an issue that requires our attention, please contact the office immediately.",f,Web Hosting,0,2,2012-04-01,2012-04-01,2013-04-01
+222293,7806,FAYE STILLMAN,FAYE,STILLMAN,,59.9,USD,2012-08-29,2w,4,0,0,0,,,f,,0,2,2012-09-12,2012-09-12,2012-09-26
+487976,2880,Menna Development & Management Inc,Renee,Prine,,324.0,USD,2013-06-07,y,0,0,0,0,,"Participation in Green Hotels Global is a brand standard. More details can be found on the MGS page: https://extranet.marriott.com/mgs/common/business-resources/sustainability/carbon-footprint-and-sales-rfp-reporting-tool.htmlnnWe accept the following forms of payment:n1. Credit Card: Amex, MasterCard or Visa. Email: blair@greenhotelsglobal.com or fax-416-597-0563nn2. Check: Please make payable to Green Hotels Globalnn3. Wire Transfer: Instructions for Wire Transfer / Payment Routing:nnCompany's Bank: Bank of Montrealn112 Spadina Ave, Toronto, Ontario M5V 2K5 CanadannCompany: Green Ride Global Inc.nCompany Account #: Transit: 04182 Bank: 001 Account: 4604745nSWIFT / Routing #: BOFMCAM2nn***Please cite invoice # on payment details***",f,,0,5,2017-06-07,2017-06-07,2018-06-07
+222036,3,EOTAC,Fernando,Coelho,,432.0,USD,2010-06-23,m,0,-48,10,0,,SLA Billing for ::month+1:: ::year::,f,,0,10,2011-03-23,2011-03-23,2011-04-23
+222293,6809,KATHERINE MILLER,KATHERINE,MILLER,,59.9,USD,2012-06-06,2w,4,0,0,0,,,f,,0,4,2012-07-18,2012-07-18,2012-08-01
+1273435,23868,A-z-z Inc.,Elias,Azzouz,Elias Azzouz,63.0,USD,2016-08-15,3m,0,0,0,0,,,f,,0,3,2016-08-15,2016-08-15,2016-11-15
+181013,189,Derris Henrich,Derris,Henrich,,37.83,USD,2010-12-10,m,0,0,0,0,,,f,,0,3,2011-01-10,2011-01-10,2011-02-10
+193426,17671,Reliable Transportation Solutions,Ben,Bird,Ben Bird,1216.95,USD,2015-05-06,y,0,0,0,0,,This invoice for 5 users on the Standard Edition.rnrnThank you for using LeanKit!rnrnrelyonrts.leankit.com,f,,0,2,2016-05-06,2016-05-06,2017-05-06
+942058,7292,KPS KHALEFF,MUHAMMAD KHALEFF,BIN EFFENDI,,250.0,SGD,2014-04-01,m,0,0,0,0,,,f,,0,6,2014-09-01,2014-09-01,2014-10-01
+121001,48,kguadarrama2007@yahoo.com,Krystal,Guadarrama,,24.0,USD,2010-04-02,m,0,0,0,0,,,f,,0,2,2010-05-02,2010-05-02,2010-06-02
+94103,83231,31028,Berk,Kirikoglu,,0.0,CAD,2017-01-06,m,0,0,0,0,,,f,,0,8,2017-08-06,2017-08-06,2017-09-06
+169473,272,Seniors Transition Services,Zarina,Chopra,,84.75,CAD,2010-11-01,m,5,0,0,0,,85692 0475 RT0001,f,,0,5,2011-03-01,2011-03-01,2011-04-01
+1715597,2209,Hymark Towing LLC,Troy,Pickeill,,129.0,USD,2015-07-07,m,0,0,0,0,,,f,,0,3,2015-09-07,2015-09-07,2015-10-07
+791968,9489,Body Center,Jeff,Fairley,,45.0,USD,2013-12-15,3m,0,0,0,0,,,f,,0,7,2015-06-15,2015-06-15,2015-09-15
+1457307,25118,Marine Mammal Tours,Charles,Shaffer,,106.32,USD,2017-11-11,m,0,0,0,0,,"Invoice is for Service during the month of ::month+1::. Any overage charges are for usage during the month of ::month-1::.
+
+Thank you for your business!",f,,0,42,2020-04-11,2020-04-11,2020-05-11
+69918,35369,Premier Hospitality Management,Purtawan,Premier,,408.77,USD,2014-07-25,m,1,0,0,0,,"PAYMENT OPTIONS:rn•	Direct Debit - Credit CardrnIf you wish to be invoiced monthly please download our Direct Debit form from http://www.siteminder.com/siteminder-forms/ and fax back to us on +61 2 8246-6337 or email your request to accounts@siteminder.com.aurn•	EFT – Quarterly.  No refund applies to advance payment.	rn*For any of the above payment options please email request to accounts@siteminder.com.aurnrn** NO CHEQUES WILL BE ACCEPTED**rnrnShould you no longer require SiteMinder services, please give 30 days notice by emailing accounts@siteminder.com.au .",f,,0,1,2014-07-25,2014-07-25,2014-08-25
+662848,10706,Henley Honda,Cathy,,,791.0,CAD,2014-06-15,m,0,0,0,0,,,f,,0,12,2015-05-15,2015-05-15,2015-06-15
+1615168,17973,Travis McCollum,,,,45.0,USD,2016-05-02,m,0,0,0,0,,,f,,0,28,2018-08-02,2018-08-02,2018-09-02
+530625,1,Spike Design,Darren,Jourdain,,192.5,AUD,2012-10-01,m,0,0,0,0,,,f,,0,1,2012-10-01,2012-10-01,2012-11-01
+222293,7318,ROBERT BASKIND,ROBERT,BASKIND,,59.9,USD,2012-07-19,2w,4,0,0,0,,,f,,0,1,2012-07-19,2012-07-19,2012-08-02
+42403,859,ABC Corp,John,Smith,,45.6,USD,2011-02-17,w,1,0,0,0,,Due upon receipt.,f,,0,1,2011-02-17,2011-02-17,2011-02-24
+44887,21,Koehorst in't veld,Toon,Koehorst,,119.0,EUR,2007-12-18,y,0,0,0,0,,Jaarlijkse kosten domeinregistratie en hosting vi11age.com,f,,0,2,2008-12-18,2008-12-18,2009-12-18
+1419016,25971,Child Care Services Association,Anna,Carter,,4500.0,USD,2017-02-16,m,0,0,0,0,,"Thank you for the opportunity to work together, Anna! Payment for invoices is due by the 23rd of each month.",f,,0,1,2017-02-16,2017-02-16,2017-03-16
+158262,220,Aschera Rose Dance,Beve,Gardner,,399.6,CAD,2012-01-02,y,0,0,0,0,,,f,,0,5,2016-01-02,2016-01-02,2017-01-02
+659184,17038,Integrity HD Inc,Dave,,,141.25,CAD,2014-12-01,m,0,0,0,0,,,f,,0,42,2018-05-01,2018-05-01,2018-06-01
+119133,286,BAS & Figures Bookkeeping Services,Kathy,Adornetto,,176.0,AUD,2011-08-05,y,0,0,0,0,,,f,,0,2,2012-08-05,2012-08-05,2013-08-05
+532822,19,Sallie O'Neill,Sallie,O'Neill,,60.0,USD,2013-09-03,y,0,0,0,0,,,t,,0,4,2016-09-03,2016-09-03,2017-09-03
+336830,2158,Field4Kids,MJ,Ball,Meredyth J Ball,1397.76,USD,2012-11-01,6m,0,0,0,0,,"As per your contract terms, this invoice reflects a 4% price increase.",f,NO [X],1,4,2014-05-01,2014-05-01,2014-11-01
+94103,116014,174012,ana,veloso,,0.0,CAD,2019-03-26,m,0,0,0,0,,,f,,0,0,,,2019-03-26
+129813,519,Central Park Apartments,Rhonda,,,125.0,USD,2013-03-01,m,0,0,0,0,,,f,,0,3,2013-05-01,2013-05-01,2013-06-01
+50746,398,Kathy Clark,Kathy,Clark,,342.0,USD,2018-03-15,3m,0,0,0,0,,"Service Period  ::month+2:: 2 through ::month+5:: 1.
+
+Your Service Plan does not include the Service Protection Plan. If you would like to subscribe for an additional $7/per month please let us know.",f,,0,47,2020-12-15,2020-12-15,2021-03-15
+891464,37843,Pacific Sands and Martello Tower Partnership,Julie,Scott,,109.76,CAD,2017-12-31,m,0,0,0,30,"website system updates, backups, security and misc. updates.","www.pacific-sands.com and www.martello-tower.com and www.1215.ca.
+Includes system updates, backups, basic security, and misc. updates.",f,,0,19,2019-06-30,2019-06-30,2019-07-31
+114615,34,Centerville Water Association,Tammy,Sutton,,602.49,USD,2012-01-01,y,0,0,0,0,,,f,Yearly recurring fees,0,14,2019-01-01,2019-01-01,2020-01-01
+3092826,8632,My VIVAA,Ramandeep,Sidhu,,299.0,USD,2017-11-28,m,0,0,0,0,This accounts for the time needed to manage ad accounts,,f,,0,39,2021-01-28,2021-01-28,2021-02-28
+3038969,9640,Nancy Hickman,Nancy,Hickman,,125.0,USD,2018-01-11,2w,0,0,0,30,,,f,,0,2,2018-01-11,2018-01-11,2018-01-25

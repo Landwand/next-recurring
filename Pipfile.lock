@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "46ec202a841b68f21e7c74fcd6d233bee23ba94d58b76b4a3913558b42f9cf93"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "dataclass-csv": {
+            "hashes": [
+                "sha256:6a9207537ccdc3f381d50c3f5d053ce5a92ef0d61850f7a159e3f52eb79f0402",
+                "sha256:e01e99fa75779bb86ae3b9577a06ffc8632061c03115d6a0823137458bfa3d1c"
+            ],
+            "index": "pypi",
+            "version": "==1.4.0"
+        }
+    },
+    "develop": {}
+}
